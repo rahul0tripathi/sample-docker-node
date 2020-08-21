@@ -1,0 +1,24 @@
+{
+  "name": "sample-docker-node",
+  "version": "1.0.0",
+  "description": "sample image for nodejs server ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahultripathidev/sample-docker-node.git"
+  },
+  "keywords": [
+    "node",
+    "docker",
+    "http"
+  ],
+  "author": "rahultripathidev@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahultripathidev/sample-docker-node/issues"
+  },
+  "homepage": "https://github.com/rahultripathidev/sample-docker-node#readme"
+}
